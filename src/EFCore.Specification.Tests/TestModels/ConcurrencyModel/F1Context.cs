@@ -1,4 +1,4 @@
-// Copyright (c) .NET Foundation. All rights reserved.
+ï»¿// Copyright (c) .NET Foundation. All rights reserved.
 // Licensed under the Apache License, Version 2.0. See License.txt in the project root for license information.
 
 using System.Collections.Generic;
@@ -524,7 +524,7 @@ namespace Microsoft.EntityFrameworkCore.TestModels.ConcurrencyModel
                 },
                 new TestDriver
                 {
-                    Name = "Marc Gené",
+                    Name = "Marc Genï¿½",
                     TeamId = Team.Ferrari,
                     CarNumber = null,
                     Championships = 0,
@@ -548,7 +548,7 @@ namespace Microsoft.EntityFrameworkCore.TestModels.ConcurrencyModel
                 },
                 new Driver
                 {
-                    Name = "Nico Hülkenberg",
+                    Name = "Nico Hï¿½lkenberg",
                     TeamId = Team.Williams,
                     CarNumber = 10,
                     Championships = 0,
@@ -608,7 +608,7 @@ namespace Microsoft.EntityFrameworkCore.TestModels.ConcurrencyModel
                 },
                 new TestDriver
                 {
-                    Name = "Jérôme d'Ambrosio",
+                    Name = "Jï¿½rï¿½me d'Ambrosio",
                     TeamId = Team.Renault,
                     CarNumber = null,
                     Championships = 0,
@@ -668,7 +668,7 @@ namespace Microsoft.EntityFrameworkCore.TestModels.ConcurrencyModel
                 },
                 new Driver
                 {
-                    Name = "Sébastien Buemi",
+                    Name = "Sï¿½bastien Buemi",
                     TeamId = Team.ToroRosso,
                     CarNumber = 16,
                     Championships = 0,
